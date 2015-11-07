@@ -1,0 +1,21 @@
+{
+  "name": "react_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-uglifyjs": "^0.6.2",
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2",
+    "reactify": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ladislav Janeček",
+  "license": "ISC"
+}
