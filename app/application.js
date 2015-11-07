@@ -5,6 +5,6 @@
 		ReactDOM 				= require('react-dom'),
 		Layout 					= require('./components/layout');
 	
-	ReactDOM.render(<Layout name="Ladáku :D"/>, document.getElementById('container'));
+	ReactDOM.render(<Layout name="Ladik :-)"/>, document.getElementById('container'));
 	
 })();
